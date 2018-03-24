@@ -1,4 +1,9 @@
-# Bizcocho microondas o Mug Cake
+# Workshop Git & GitHub (23/03/2018):
+
+[Enlace a MeetUp](https://www.meetup.com/es-ES/yunemy/events/248668987/)
+[Enlace a Diapositivas](https://drive.google.com/file/d/19JNHs4_G5_5pZPb3vyUwOQmBR9Uah4lK/view?usp=sharing)
+
+## Bizcocho microondas o Mug Cake
 
 ![alt text](/images/mug-cake-bizcocho-microondas.jpg)
 
